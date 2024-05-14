@@ -1,0 +1,11 @@
+C:\Users\Josep\source\repos\C#\T2_v2\T2_v2\bin\Debug\T2_v2.exe.config
+C:\Users\Josep\source\repos\C#\T2_v2\T2_v2\bin\Debug\T2_v2.exe
+C:\Users\Josep\source\repos\C#\T2_v2\T2_v2\bin\Debug\T2_v2.pdb
+C:\Users\Josep\source\repos\C#\T2_v2\T2_v2\obj\Debug\T2_v2.csproj.AssemblyReference.cache
+C:\Users\Josep\source\repos\C#\T2_v2\T2_v2\obj\Debug\T2_v2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Josep\source\repos\C#\T2_v2\T2_v2\obj\Debug\T2_v2.Form1.resources
+C:\Users\Josep\source\repos\C#\T2_v2\T2_v2\obj\Debug\T2_v2.Properties.Resources.resources
+C:\Users\Josep\source\repos\C#\T2_v2\T2_v2\obj\Debug\T2_v2.csproj.GenerateResource.cache
+C:\Users\Josep\source\repos\C#\T2_v2\T2_v2\obj\Debug\T2_v2.csproj.CoreCompileInputs.cache
+C:\Users\Josep\source\repos\C#\T2_v2\T2_v2\obj\Debug\T2_v2.exe
+C:\Users\Josep\source\repos\C#\T2_v2\T2_v2\obj\Debug\T2_v2.pdb
